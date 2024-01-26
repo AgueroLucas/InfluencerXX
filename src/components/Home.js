@@ -33,11 +33,11 @@ function Home() {
           <div className="d-flex flex-column align-items-center">
             <img
               src="https://i.pinimg.com/564x/74/a7/2a/74a72a774e21d0c5904e31e6a6aae9d2.jpg"
-              alt="Imagen 1"
+              alt="Imagenperfil1"
               className="bd-placeholder-img rounded-circle"
               width="160"
               height="160"
-              role="img"
+              role="presentation"
               aria-label="Placeholder: 140x140"
               style={{
                 border: "4px solid black",
