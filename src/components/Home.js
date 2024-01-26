@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './../estilos/estilos.css';
-import { FaArrowUp, FaTwitterSquare,FaTiktok,FaYoutube,FaDiscord, FaInstagram, FaWhatsapp } from "react-icons/fa";
+import { FaArrowUp,FaTiktok,FaYoutube,FaDiscord, FaInstagram } from "react-icons/fa";
 import { ImTwitch } from "react-icons/im";
 
 function Home() {

@@ -1,5 +1,4 @@
 import React from 'react';
-import { FaBook, FaLinkedin, FaInstagram, FaWhatsapp } from "react-icons/fa";
 import { GiDelighted } from "react-icons/gi";
 
 const Footer = () => {
